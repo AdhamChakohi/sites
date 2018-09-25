@@ -1,0 +1,38 @@
+body{
+  background-color: rgb(87,6,140);
+  color: white;
+  text-align: center;
+  font-family: Helvetica;
+}
+
+h1{
+  font-weight: lighter;
+}
+
+#buttons{
+  margin: auto;
+  width: 50%;
+  border: 3px;
+  padding: 10px;
+  text-align: center;
+  position: relative;
+  margin-top: 10%;
+}
+
+input{
+  border-radius: 0px;
+  padding: 10px 20px 10px 20px;
+  border: solid white 2px;
+  text-decoration: none;
+  background-color: inherit;
+  color: white;
+  font-size: 20px;
+  margin-top: 10%;
+  height: 100px;
+  width: 700px;;
+}
+
+input:hover{
+  background: #bc6ef0;
+  text-decoration: none;
+}
